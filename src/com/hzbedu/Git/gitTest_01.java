@@ -6,5 +6,6 @@ package com.hzbedu.Git;/*
 public class gitTest_01 {
     public static void main(String[] args) {
         System.out.println("push test");
+        System.out.println("First commit");
     }
 }
