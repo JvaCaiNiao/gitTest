@@ -8,5 +8,6 @@ public class gitTest_01 {
         System.out.println("push test");
         System.out.println("First commit");
         System.out.println("hot-fix");
+     System.out.println("郝志兵大帅哥");
     }
 }
